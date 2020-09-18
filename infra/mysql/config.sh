@@ -1,0 +1,8 @@
+#!/bin/bash
+
+WORK_DIR=$(pwd)
+MYSQL_IMAGE_NAME='mysql'
+MYSQL_IMAGE_TAG='8.0'
+MYSQL_CONTAINER_NAME='mysql'
+MYSQL_PORT='3306'
+MYSQL_ROOT_PASSWORD='lucifer'
